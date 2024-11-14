@@ -25,7 +25,7 @@ Contact the [MathWorks STEM Outreach team](mailto:stemoutreach@groups.mathworks.
 ### Accessing the Module
 ### **On MATLAB Online:**
 
-Use the [<img src="README_media/image_0.png" width="136" alt="image_0.png">](https://matlab.mathworks.com/open/github/v1?repo=mathworks/pi-apps&project=pi-apps.prj) link to download the module. You will be prompted to log in or create a MathWorks account and the project will then load.
+Use the [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/pi-apps&project=pi-apps.prj&file=README.mlx) link to download the module. You will be prompted to log in or create a MathWorks account and the project will then load.
 
 ### **On Desktop:**
 
