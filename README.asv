@@ -13,9 +13,7 @@ The number pi has been studied for a very long time, yet it still holds some mys
 
 Before being made available online, this interactive experiment was presented in the Pi Room of Palais de la Découverte in Paris, France:
 
-
-[https://www.palais-decouverte.fr/fr/explorer-nos-contenus/cabinet-de-curiosites-mathematiques/le-nombre-pi](https://www.palais-decouverte.fr/fr/explorer-nos-contenus/cabinet-de-curiosites-mathematiques/le-nombre-pi)
-
+https://www.palais-decouverte.fr/fr/explorer-nos-contenus/cabinet-de-curiosites-mathematiques/le-nombre-pi
 
 It was created using MATLAB, based on the data from the first 200 million decimals provided by the mathematics team. It allows you to search for any sequence of digits and tells you how many times and where it has been found.
 
