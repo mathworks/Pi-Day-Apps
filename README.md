@@ -35,7 +35,7 @@ Use the [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/gl
 
 ### **On Desktop:**
 
-Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double\-click on [pi\-apps.prj](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Pi-Day-Apps&project=pi-apps.prj&file=README.mlx). It will add the appropriate files to your MATLAB path and open the app. 
+Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double\-click on [pi\-apps.prj](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Pi-Day-Apps&project=pi-apps.prj&file=README.mlx). It will add the appropriate files to your MATLAB path and open the README. 
 
 
 # Apps
