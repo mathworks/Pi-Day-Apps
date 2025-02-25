@@ -39,11 +39,11 @@ Download or clone this repository. Open MATLAB, navigate to the folder containin
 
 
 # Apps
-### [Methods to Calculate Pi](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Pi-Day-Apps&project=pi-apps.prj&file=MethodstoCalculatePi.mlapp)
+### [Methods to Calculate Pi](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Pi-Day-Apps&project=pi-apps.prj&file=MethodstoCalculatePi.mlapp&focus=true)
 | <img src="README_media/image_1.png" width="423" alt="image_1.png"> <br>  | **In this app, students will...** <br>  \- Select a method to calculate pi from the dropdown <br>  \- Type a number of decimal places to display <br>  \- Click the "RUN" button to run the corresponding MATLAB code <br>  \- Observe the math, digits, and plots that result from calculating pi <br>   |
 | :-- | :-- |
 
-### [Pi Search](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Pi-Day-Apps&project=pi-apps.prj&file=appPISearch.mlapp)
+### [Pi Search](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Pi-Day-Apps&project=pi-apps.prj&file=appPISearch.mlapp&focus=true)
 | <img src="README_media/image_2.png" width="302" alt="image_2.png"> <br>  | **In this app, students will...** <br>  \- Select their language of choice using the flag icons <br>  \- Enter a sequence of numbers into the edit field using the keypad <br>  \- Click the search button to reveal how many times that sequence of numbers is found in pi <br>  \- Students can also using the "Previous" and "Next" buttons to find the position within pi the sequence is found <br>   |
 | :-- | :-- |
 
