@@ -54,7 +54,7 @@ MATLAB®, [App Designer](https://www.mathworks.com/help/matlab/app-designer.html
 
 # License
 
-The license for this module is available in the [LICENSE.txt](./LICENSE.txt).
+The license for this module is available in the [LICENSE](./LICENSE).
 
 # Educator Resources
 -  [Educator Page](https://www.mathworks.com/academia/educators.html) 
